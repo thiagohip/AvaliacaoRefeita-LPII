@@ -1,3 +1,5 @@
+//thiago hipolito
+
 #include <iostream>
 #include "time.h"
 
